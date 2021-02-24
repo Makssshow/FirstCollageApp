@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Первое приложение</string>
+    <string name="tab_text_1">Цифры</string>
+    <string name="tab_text_2">Картинки</string>
+
+    <string name="fio">Лучихин</string>
+    <string name="group">ИСп 19–1</string>
+    <string name="year_develop">2021 год</string>
+    <string name="know_number">Попробуй угадать число от 0 до 9</string>
+    <string name="ahead">Угадал с</string>
+    <string name="aheadPart2">попытки</string>
+    <string name="error">Введи число ОТ 0 ДО 9</string>
+    <string name="lose">Ты не угадал, еще варианты?</string>
+    <string name="submit_button">Проверить</string>
+    <string name="reset_button">Новая игра</string>
+    <string name="reset_but">Сбросить</string>
+    <string name="number_close">Закрыть</string>
+</resources>
